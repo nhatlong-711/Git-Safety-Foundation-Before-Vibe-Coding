@@ -4,3 +4,5 @@ Chào mừng bạn đến với repo hướng dẫn học Git thực tế. Repo 
 
 ## Mục lục
 1. [Git Cơ Bản](01-co-ban.md)
+## Cảnh báo nguy hiểm
+Đoạn này bị viết sai, chứa mã độc hoặc thông tin bảo mật bị lộ! (Cần phải rollback gấp)
