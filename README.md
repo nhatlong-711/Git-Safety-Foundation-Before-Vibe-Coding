@@ -8,4 +8,4 @@ Chào mừng bạn đến với repo hướng dẫn học Git thực tế. Repo 
 3. [Hướng dẫn Conflict bản đặc biệt từ nhánh Feature](03-conflict.md)
 
 ## Khóa học này được tài trợ bởi: Cộng đồng mã nguồn mở Git
-## Trạng thái dự án: Nhánh A đang làm chủ
+## Trạng thái dự án: Cả hai nhánh cùng hợp tác
