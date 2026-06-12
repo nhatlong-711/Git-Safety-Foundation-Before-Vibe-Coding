@@ -11,3 +11,4 @@ Chào mừng bạn đến với repo hướng dẫn học Git thực tế. Repo 
 ## Trạng thái dự án: Cả hai nhánh cùng hợp tác
 
 # "Dòng này được sửa bởi Nhánh A"
+# "Dòng này được sửa bởi Nhánh B"
