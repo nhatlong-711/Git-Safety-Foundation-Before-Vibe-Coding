@@ -1,4 +1,5 @@
 # Nhật Ký Thực Hành Git & GitHub
+Tác giả: Hoàng Phúc Nhật Long - Khoa Kỹ thuật và Công nghệ
 
 Dự án này ghi lại toàn bộ lộ trình tự học và thực hành Git từ các lệnh cơ bản đến các tình huống nâng cao (Revert, Branching, Pull Request và Merge Conflict). Đây là minh chứng cho quá trình xây dựng nền tảng quản lý mã nguồn vững chắc, chuẩn bị sẵn sàng cho kỷ nguyên phát triển phần mềm hiện đại.
 
