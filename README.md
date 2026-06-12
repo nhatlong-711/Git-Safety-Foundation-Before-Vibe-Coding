@@ -9,3 +9,5 @@ Chào mừng bạn đến với repo hướng dẫn học Git thực tế. Repo 
 
 ## Khóa học này được tài trợ bởi: Cộng đồng mã nguồn mở Git
 ## Trạng thái dự án: Cả hai nhánh cùng hợp tác
+
+# "Dòng này được sửa bởi Nhánh B"
